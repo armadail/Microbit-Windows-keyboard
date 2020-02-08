@@ -16,5 +16,7 @@ Tutorial on how to start scripting with windows mouse and keyboard using PyUserI
 - the pyhook installer should automatically find python 2.7
 
 ![py32commandline](/images/py32commandline.PNG)
-### 3) 
+
+### 3) Downloading the dependancies from: https://github.com/PyUserInput/PyUserInput
+- extract the files to anywhere
 
